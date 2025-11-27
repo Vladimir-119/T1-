@@ -33,12 +33,12 @@
 ### 2. Установка и запуск
 Склонируйте репозиторий и запустите проект одной командой:
 
-``git clone https://github.com/Vladimir-119/T1-.git
-cd T1-/T1``
+```git clone https://github.com/Vladimir-119/T1-.git
+cd T1-/T1```
 
 
 2. **Запустите проект одной командой:**
-``docker-compose up --build``
+```docker-compose up --build```
 
 
 3. **Откройте приложение:**
@@ -64,4 +64,4 @@ python-multipart
 requests
 python-dotenv
 
-``pip install -r requirements.txt``
+```pip install -r requirements.txt```
